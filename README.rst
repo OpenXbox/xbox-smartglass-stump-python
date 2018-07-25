@@ -14,7 +14,7 @@ Xbox-Smartglass-Stump
     :target: https://travis-ci.com/OpenXbox/xbox-smartglass-stump-python
 
 .. image:: https://img.shields.io/badge/discord-OpenXbox-blue.svg
-    :target: https://discord.gg/uzbC73m
+    :target: https://discord.gg/E8kkJhQ
     :alt: Discord chat channel
 
 Library to handle SmartGlass Stump (TV Streaming / IR control) messages.
