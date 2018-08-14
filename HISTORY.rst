@@ -2,6 +2,11 @@
 History
 =======
 
+0.9.4 (2018-08-14)
+------------------
+
+* Bump required xbox-smartglass-core version to v1.0.10
+
 0.9.3 (2018-08-11)
 ------------------
 
