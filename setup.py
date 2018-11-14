@@ -6,7 +6,7 @@ from setuptools import setup
 
 setup(
     name="xbox-smartglass-stump",
-    version="0.9.4",
+    version="0.9.5",
     author="OpenXbox",
     description="A library to handle stump smartglass stuff, related to TV streaming.",
     long_description=open('README.rst').read() + '\n\n' + open('HISTORY.rst').read(),
