@@ -115,6 +115,7 @@ class _AppProvider(Model):
     titleId = fields.Str()
     primaryColor = fields.Str()
     secondaryColor = fields.Str()
+    providerImageUrl = fields.Str()
     channels = NestedModel(_AppChannel, many=True)
 
 
