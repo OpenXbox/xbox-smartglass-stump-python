@@ -1,52 +1,21 @@
-=====================
-Xbox-Smartglass-Stump
-=====================
+======================================
+[DEPRECATED] Xbox-Smartglass-Stump
+======================================
 
-.. image:: https://pypip.in/version/xbox-smartglass-stump/badge.svg
-    :target: https://pypi.python.org/pypi/xbox-smartglass-stump/
-    :alt: Latest Version
-
-.. image:: https://readthedocs.org/projects/xbox-smartglass-stump-python/badge/?version=latest
-    :target: http://xbox-smartglass-stump-python.readthedocs.io/en/latest/?badge=latest
-    :alt: Documentation Status
-
-.. image:: https://travis-ci.com/OpenXbox/xbox-smartglass-stump-python.svg?branch=master
-    :target: https://travis-ci.com/OpenXbox/xbox-smartglass-stump-python
-
-.. image:: https://img.shields.io/badge/discord-OpenXbox-blue.svg
-    :target: https://discord.gg/E8kkJhQ
-    :alt: Discord chat channel
-
-Library to handle SmartGlass Stump (TV Streaming / IR control) messages.
-
-For in-depth information, check out the documentation: (https://openxbox.github.io)
-
-Dependencies
+META PACKAGE
 ------------
-* Python >= 3.5
-* xbox-smartglass-core
+This package is deprecated and won't receive any updates.
 
+Its codebase has moved into the core library.
 
-How to use
-----------
+You can still install this meta package - it will simply install the core library
+as its only dependency then.
 
-Install::
+Core library:
 
-  pip install xbox-smartglass-stump
+Github_
 
+PyPi_
 
-Known issues
-------------
-* others
-
-Contribute
-----------
-* Report bugs/suggest features
-* Add/update docs
-
-Credits
--------
-This package uses parts of Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
-
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+.. _GitHub: https://github.com/OpenXbox/xbox-smartglass-core-python
+.. _PyPi: https://pypi.org/project/xbox-smartglass-core
